@@ -14,7 +14,7 @@ class Star(object):
 def run():
     
     pygame.init()
-    screen = pygame.display.set_mode((640, 480), FULLSCREEN)
+    screen = pygame.display.set_mode((640, 480),)# FULLSCREEN)
     
     stars = []
     

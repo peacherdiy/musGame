@@ -22,7 +22,7 @@ def run():
         
     font = pygame.font.SysFont("courier new", 16, True)
     
-    ball = pygame.image.load("ball.png").convert_alpha()
+    ball = pygame.image.load("map.png").convert_alpha()
     
     points = []
     
